@@ -1,4 +1,5 @@
-### Hello World👋
+### Passionate Programmer | C++ | JAVA 
+<img align="left" alt="Nouman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eisenheim00&show_icons=true&hide_border=true" />
 
 <!--
 **eisenheim00/eisenheim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
